@@ -3,7 +3,8 @@ Mi segunda pagina web en HTML
 
 Este sitio web fue programado y diseñado para el servicio de los usuarios y administradores permitiendo que su accesibilidad del sitio web sea entendible, con letra clara y organizado para una foncionalidad y rapidez excepcional, este sitio web fue diseñado en HTML y se especializa en el usuario. el usuario podra registrarse mediante un formulario, interactuar con el sitio web, ver imagenes y videos a su interes.
 
-Requisitos para el desarrollo de la pagina WEB:
+Requisitos sitio WEB nivel 2.
+Tema: Proyectos
 
 Debe tener Titulos y Subtitulos.
 Debe tener fondo sin usas CSS.
